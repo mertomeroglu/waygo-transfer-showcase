@@ -1,28 +1,24 @@
-<p align="center"><img src="assets/hero.webp" alt="Waygo Transfer shown on desktop and mobile" width="100%"></p>
+<a href="https://waygotransfer.com"><img src="assets/hero.webp" alt="WayGo Transfer presentation: desktop and mobile screens of the public website" width="100%"></a>
 
-# Waygo Transfer
+# WayGo Transfer
 
-A multilingual mobility platform presenting fixed-price transfer flows, safety features, and driver onboarding for Antalya.
+A multilingual transfer platform for Antalya, built around fixed prices, safety features and driver onboarding.
 
-**[Visit live website](https://waygotransfer.com)**
+**Live:** [waygotransfer.com](https://waygotransfer.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
 
-## Highlights
+### Highlights
 
-- Fixed-price journey concept and four-step ride flow
-- Safety, live tracking, trip sharing, and private-call messaging
-- Turkish, English, and Russian public experience
-- Driver and customer-oriented entry points
+- Fixed-price journey concept and a four-step ride flow
+- Safety, live tracking, trip sharing and private-call messaging
+- Turkish, English and Russian public experience
+- Entry points for passengers and drivers
 
-## Verified technology
+### Built with
 
-Next.js, React, TypeScript, Motion, Vitest, and a pnpm monorepo are confirmed in the private source manifest.
+Next.js · React · TypeScript · Motion · Vitest · pnpm monorepo
 
-## Live interface
+<p align="center"><a href="https://waygotransfer.com"><img src="assets/poster.webp" alt="WayGo Transfer portrait presentation with screens of the public website" width="420"></a></p>
 
-<img src="assets/desktop.webp" alt="Waygo Transfer desktop homepage" width="68%"> <img src="assets/mobile.webp" alt="Waygo Transfer mobile homepage" width="27%">
+---
 
-## About this repository
-
-This presentation-only repository contains selected public screenshots, this README, and a small static introduction page. Application source and private configuration are not published here.
-
-Visual content and brand assets remain the property of their respective owners. See [LICENSE](LICENSE).
+<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
